@@ -1,0 +1,6 @@
+D:\Academia\Projetos\eAgenda.Database\bin\Debug\eAgenda.Database.dacpac
+D:\Academia\Projetos\eAgenda.Database\bin\Debug\eAgenda.Database.dll
+D:\Academia\Projetos\eAgenda.Database\bin\Debug\eAgenda.Database.pdb
+D:\Academia\Projetos\eAgenda.Database\obj\Debug\eAgenda.Database.sqlproj.AssemblyReference.cache
+D:\Academia\Projetos\eAgenda.Database\obj\Debug\eAgenda.Database.dll
+D:\Academia\Projetos\eAgenda.Database\obj\Debug\eAgenda.Database.pdb
